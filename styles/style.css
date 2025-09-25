@@ -244,7 +244,14 @@ p {
   color:#f6f8fa;
   border-radius: 5px;
   border: 0cm;
-  padding:8px;
+  padding:6px;
+}
+.donate-bike-button{
+    background-color: #bc4c00;
+      color: #f6f8fa;
+      border-radius: 5px;
+      border: 0cm;
+      padding: 6px;
 }
 /* Media queries */
 
