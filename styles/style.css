@@ -198,6 +198,9 @@ p {
 
 .article {
   margin-bottom: 1rem;
+  border: solid 2px #d1d9e0;
+  padding: 10px;
+  border-radius: 3px;
 }
 
 .article__title {
