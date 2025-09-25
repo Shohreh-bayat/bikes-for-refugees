@@ -97,7 +97,29 @@ p {
 
 /* Buttons */
 
-  /* INSERT BUTTON STYLES HERE */
+.header-button {
+  background-color: #bc4c00;
+  color: #f6f8fa;
+  border-radius: 5px;
+  border: 0cm;
+  padding: 6px;
+}
+
+.donate-bike-button {
+  background-color: #bc4c00;
+  color: #f6f8fa;
+  border-radius: 5px;
+  border: 0cm;
+  padding: 6px;
+}
+
+.volunteer-button {
+  background-color: #f6f8fa;
+  color: #bc4c00;
+  border: 0cm;
+  padding: 6px;
+  border-radius: 5px;
+}
 
 
 /* Content */
@@ -239,27 +261,6 @@ p {
   font-size: 0.85rem;
 }
 
-.header-button{
-  background-color: #bc4c00;
-  color:#f6f8fa;
-  border-radius: 5px;
-  border: 0cm;
-  padding:6px;
-}
-.donate-bike-button{
-    background-color: #bc4c00;
-      color: #f6f8fa;
-      border-radius: 5px;
-      border: 0cm;
-      padding: 6px;
-}
-.volunteer-button {
-  background-color: #f6f8fa;
-  color: #bc4c00;
-  border: 0cm;
-  padding: 6px;
-  border-radius: 5px; 
-}
 /* Media queries */
 
 @media screen and (min-width: 992px) {
