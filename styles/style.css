@@ -253,6 +253,13 @@ p {
       border: 0cm;
       padding: 6px;
 }
+.volunteer-button {
+  background-color: #f6f8fa;
+  color: #bc4c00;
+  border: 0cm;
+  padding: 6px;
+  border-radius: 5px; 
+}
 /* Media queries */
 
 @media screen and (min-width: 992px) {
