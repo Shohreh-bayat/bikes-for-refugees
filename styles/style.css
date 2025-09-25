@@ -200,13 +200,14 @@ p {
   margin-bottom: 1rem;
   border: solid 1px #d1d9e0;
   padding: 10px;
-  border-radius: 3px;
+  border-radius: 3px;  
 }
 
 .article__title {
   margin-bottom: 0.5rem;
   font-size: 1rem;
   font-weight: 700;
+
 }
 
 .article__title-link {
@@ -249,6 +250,11 @@ p {
   color: var(--orange-dark);
 }
 
+.main-articles{
+    display: grid;
+    grid-template-columns: auto auto;
+    grid-gap:10px;
+}
 /* Sidebar */
 
 .sidebar {
