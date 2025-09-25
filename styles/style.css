@@ -261,6 +261,14 @@ p {
   font-size: 0.85rem;
 }
 
+.hero{
+ background-image: url("/images/header-bike.jpg");
+ height:250px;
+ max-width:100%;
+ color:white;
+ padding: 50px;
+}
+
 /* Media queries */
 
 @media screen and (min-width: 992px) {
@@ -272,3 +280,4 @@ p {
     padding-right: 2rem;
   }
 }
+
